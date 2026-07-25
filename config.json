@@ -1,7 +1,411 @@
 {
-  "id": "1",
-  "lotteriesVersion": "1",
-  "lotteriesVersion": "2",
-  "singleLotteryVersion": "2",
-  "resultSearchVersion": "2"
+  "results": {
+    "P": [
+      {
+        "codes": [
+          "PA",
+          "PB",
+          "PC",
+          "PD",
+          "PE",
+          "PF",
+          "PG",
+          "PH",
+          "PJ",
+          "PK",
+          "PL",
+          "PM"
+        ],
+        "values": [
+          {
+            "drawDate": "2026-07-09T09:30:00.000Z",
+            "lotteryName": "Karunya Plus",
+            "isNew": true,
+            "isLive": false,
+            "lotteryId": "KN-631"
+          }
+        ]
+      },
+      {
+        "codes": [
+          "PN",
+          "PO",
+          "PP",
+          "PR",
+          "PS",
+          "PT",
+          "PU",
+          "PV",
+          "PW",
+          "PX",
+          "PY",
+          "PZ"
+        ],
+        "values": []
+      }
+    ],
+    "J": [
+      {
+        "values": [],
+        "codes": [
+          "JA",
+          "JB",
+          "JC",
+          "JD",
+          "JE"
+        ]
+      }
+    ],
+    "X": [
+      {
+        "codes": [
+          "XA",
+          "XB",
+          "XC",
+          "XD",
+          "XE",
+          "XG",
+          "XH",
+          "XJ",
+          "XK",
+          "XL"
+        ],
+        "values": []
+      }
+    ],
+    "S": [
+      {
+        "codes": [
+          "SA",
+          "SB",
+          "SC",
+          "SD",
+          "SE",
+          "SG"
+        ],
+        "values": []
+      },
+      {
+        "values": [],
+        "codes": [
+          "SF",
+          "SH",
+          "SJ",
+          "SK",
+          "SL",
+          "SM"
+        ]
+      },
+      {
+        "codes": [
+          "SN",
+          "SO",
+          "SP",
+          "SR",
+          "SS",
+          "ST",
+          "SU",
+          "SV",
+          "SW",
+          "SX",
+          "SY",
+          "SZ"
+        ],
+        "values": [
+          {
+            "lotteryName": "Sthree Sakthi",
+            "drawDate": "2026-04-14T09:30:00.000Z",
+            "isNew": false,
+            "lotteryId": "SS-515",
+            "isLive": false
+          }
+        ]
+      }
+    ],
+    "K": [
+      {
+        "values": [],
+        "codes": [
+          "KA",
+          "KB",
+          "KC",
+          "KD",
+          "KE",
+          "KF",
+          "KG",
+          "KH",
+          "KJ",
+          "KK",
+          "KL",
+          "KM"
+        ]
+      },
+      {
+        "values": [
+          {
+            "lotteryId": "KR-749",
+            "isLive": false,
+            "drawDate": "2026-04-11T09:30:00.000Z",
+            "lotteryName": "Karunya",
+            "isNew": false
+          }
+        ],
+        "codes": [
+          "KN",
+          "KO",
+          "KP",
+          "KR",
+          "KS",
+          "KT",
+          "KU",
+          "KV",
+          "KW",
+          "KX",
+          "KY",
+          "KZ"
+        ]
+      }
+    ],
+    "R": [
+      {
+        "values": [],
+        "codes": [
+          "RA",
+          "RB",
+          "RC",
+          "RD",
+          "RE",
+          "RF",
+          "RG",
+          "RH",
+          "RJ",
+          "RK",
+          "RL",
+          "RM"
+        ]
+      },
+      {
+        "codes": [
+          "RN",
+          "RO",
+          "RP",
+          "RR",
+          "RS",
+          "RT",
+          "RU",
+          "RV",
+          "RW",
+          "RX",
+          "RY",
+          "RZ"
+        ],
+        "values": [
+          {
+            "isNew": false,
+            "lotteryName": "Suvarna Keralam",
+            "drawDate": "2026-06-26T09:30:00.000Z",
+            "isLive": false,
+            "lotteryId": "SK-58"
+          },
+          {
+            "isLive": false,
+            "lotteryId": "SK-48",
+            "isNew": false,
+            "drawDate": "2026-04-10T09:30:00.000Z",
+            "lotteryName": "Suvarna Keralam"
+          }
+        ]
+      }
+    ],
+    "T": [
+      {
+        "values": [
+          {
+            "isLive": false,
+            "lotteryId": "BR-105",
+            "drawDate": "2025-10-04T09:30:00.000Z",
+            "lotteryName": "Thiruvonam Bumper",
+            "isNew": false
+          }
+        ],
+        "codes": [
+          "TA",
+          "TB",
+          "TC",
+          "TD",
+          "TE",
+          "TG",
+          "TH",
+          "TJ",
+          "TK",
+          "TL"
+        ]
+      }
+    ],
+    "M": [
+      {
+        "values": [
+          {
+            "lotteryName": "Samrudhi",
+            "drawDate": "2026-07-12T09:30:00.000Z",
+            "isNew": false,
+            "isLive": false,
+            "lotteryId": "SM-63"
+          }
+        ],
+        "codes": [
+          "MA",
+          "MB",
+          "MC",
+          "MD",
+          "ME"
+        ]
+      },
+      {
+        "codes": [
+          "MF",
+          "MG",
+          "MH",
+          "MJ",
+          "MK",
+          "ML",
+          "MM"
+        ],
+        "values": [
+          {
+            "isLive": false,
+            "lotteryId": "SM-63",
+            "lotteryName": "Samrudhi",
+            "drawDate": "2026-07-12T09:30:00.000Z",
+            "isNew": false
+          }
+        ]
+      },
+      {
+        "values": [
+          {
+            "isLive": false,
+            "lotteryId": "SM-50",
+            "drawDate": "2026-04-12T09:30:00.000Z",
+            "lotteryName": "Samrudhi",
+            "isNew": false
+          }
+        ],
+        "codes": [
+          "MN",
+          "MO",
+          "MP",
+          "MR",
+          "MS",
+          "MT",
+          "MU",
+          "MV",
+          "MW",
+          "MX",
+          "MY",
+          "MZ"
+        ]
+      }
+    ],
+    "B": [
+      {
+        "codes": [
+          "BA",
+          "BB",
+          "BC",
+          "BD",
+          "BE",
+          "BF",
+          "BG",
+          "BH",
+          "BJ",
+          "BK",
+          "BL",
+          "BM"
+        ],
+        "values": [
+          {
+            "isLive": false,
+            "lotteryId": "BT-59",
+            "isNew": false,
+            "lotteryName": "Bhagyathara",
+            "drawDate": "2026-06-22T09:30:00.000Z"
+          },
+          {
+            "lotteryName": "Bhagyathara",
+            "drawDate": "2026-04-13T09:30:00.000Z",
+            "isNew": false,
+            "isLive": false,
+            "lotteryId": "BT-49"
+          }
+        ]
+      },
+      {
+        "values": [],
+        "codes": [
+          "BN",
+          "BO",
+          "BP",
+          "BR",
+          "BS",
+          "BT",
+          "BU",
+          "BV",
+          "BW",
+          "BX",
+          "BY",
+          "BZ"
+        ]
+      }
+    ],
+    "D": [
+      {
+        "codes": [
+          "DA",
+          "DB",
+          "DC",
+          "DD",
+          "DE",
+          "DF",
+          "DG",
+          "DH",
+          "DJ",
+          "DK",
+          "DL",
+          "DM"
+        ],
+        "values": []
+      },
+      {
+        "codes": [
+          "DN",
+          "DO",
+          "DP",
+          "DR",
+          "DS",
+          "DT",
+          "DU",
+          "DV",
+          "DW",
+          "DX",
+          "DY",
+          "DZ"
+        ],
+        "values": []
+      }
+    ],
+    "V": [
+      {
+        "codes": [
+          "VA",
+          "VB",
+          "VC",
+          "VD",
+          "VE",
+          "VG"
+        ],
+        "values": []
+      }
+    ]
+  }
 }
