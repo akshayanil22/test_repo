@@ -30,6 +30,13 @@
             "drawDate": "2026-07-09T09:30:00.000Z",
             "isLive": false,
             "isNew": true
+          },
+          {
+            "lotteryId": "KN-63111",
+            "lotteryName": "Karunya Plus",
+            "drawDate": "2026-07-09T09:30:00.000Z",
+            "isLive": false,
+            "isNew": true
           }
         ]
       },
